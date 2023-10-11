@@ -5,7 +5,6 @@ This "Dominator" Cheat Menu Has Features Such As Unlocking All Operators, Unlock
 
 ![image](https://github.com/DominatorDev/WarZoneDominator/assets/146886410/8eb22e4d-f28d-412c-a63f-6992d48214f0)
 
-
 ## Cheat Menu Features:
 - Fully Bypassed Ricochet Anti Cheat
 - Working for Season 4!
